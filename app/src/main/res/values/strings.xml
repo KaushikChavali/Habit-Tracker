@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Habit Tracker</string>
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="starter_string">Click Insert Dummy Data to populate the database.</string>
+</resources>
